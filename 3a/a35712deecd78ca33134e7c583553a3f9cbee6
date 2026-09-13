@@ -1,0 +1,38 @@
+src/deepmarkpy/plugins/attacks/aac_compression/config.json
+  s_782b18e8d8d915::t_3eb482840e504b 1-3
+tests/fixtures/goldens/manifest.json
+  s_782b18e8d8d915::t_78bbaf8f34454e 43-45
+tests/test_native_goldens.py
+  s_782b18e8d8d915::t_7a326107e9be91 32-36
+tests/test_attacks.py
+  s_782b18e8d8d915::t_6a23fca5fe4567 290-364
+  s_782b18e8d8d915::t_bcc39289e5af21 6-7
+src/deepmarkpy/utils/attack_groups.py
+  s_782b18e8d8d915::t_cc198ac360f31f 48
+src/deepmarkpy/plugins/attacks/aac_compression/attack.py
+  s_782b18e8d8d915::t_f2ae91e391ce24 1-141
+scripts/generate_native_goldens.py
+  s_782b18e8d8d915::t_957c94af165475 42
+  s_782b18e8d8d915::t_2cbab5f4bd7179 134-139
+tests/test_discovery_lock.py
+  s_782b18e8d8d915::t_7e31d6edd70343 27,33-35
+  s_782b18e8d8d915::t_37cdb0a0113c29 64
+README.md
+  s_782b18e8d8d915::t_fdd879a3069026 185
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "3aa35712deecd78ca33134e7c583553a3f9cbee6",
+  "prompts": {},
+  "sessions": {
+    "s_782b18e8d8d915": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52f6b5ee-0cc3-43fa-beb8-bf6d050e0a6c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "sarthakuwar <kuwarsarthak711@gmail.com>"
+    }
+  }
+}
