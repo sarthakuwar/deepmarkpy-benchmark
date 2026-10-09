@@ -1,0 +1,35 @@
+README.md
+  s_782b18e8d8d915::t_18f08a6773f029 200
+scripts/generate_native_goldens.py
+  s_782b18e8d8d915::t_b0ffe18b0cfcf1 42,132-137
+src/deepmarkpy/plugins/attacks/aac_compression/attack.py
+  s_782b18e8d8d915::t_94997a5608e61e 1-141
+src/deepmarkpy/plugins/attacks/aac_compression/config.json
+  s_782b18e8d8d915::t_7ba9f84d8e3cbd 1-3
+src/deepmarkpy/utils/attack_groups.py
+  s_782b18e8d8d915::t_e10ca9bba5f8ca 60,196
+tests/fixtures/goldens/manifest.json
+  s_782b18e8d8d915::t_1c8d46df9c9d43 43-45
+tests/test_attacks.py
+  s_782b18e8d8d915::t_f289c348323efb 6-7,230-304
+tests/test_discovery_lock.py
+  s_782b18e8d8d915::t_3055078ceed610 27,32-35,64
+tests/test_native_goldens.py
+  s_782b18e8d8d915::t_6c50c416c39a7d 32-36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "04874a8e75adac6604ebe786c324d2fa4ae8e544",
+  "prompts": {},
+  "sessions": {
+    "s_782b18e8d8d915": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "52f6b5ee-0cc3-43fa-beb8-bf6d050e0a6c",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "sarthakuwar <kuwarsarthak711@gmail.com>"
+    }
+  }
+}
